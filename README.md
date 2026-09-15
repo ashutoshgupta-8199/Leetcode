@@ -4,10 +4,12 @@
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Dynamic Programming
 |  |
@@ -47,4 +49,8 @@
 |  |
 | ------- |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
