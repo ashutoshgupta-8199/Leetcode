@@ -1,34 +1,32 @@
-class Solution(object):
+class Solution:
     def minSumOfLengths(self, arr, target):
-        """
-        :type arr: List[int]
-        :type target: int
-        :rtype: int
-        """
         n = len(arr)
-        INF = float('inf')
-        
-        min_len = [INF] * n
-        
+
+        best = [float('inf')] * n
+
         left = 0
-        total = 0
-        best = INF
-        res = INF
-        
+        current_sum = 0
+        min_length = float('inf')
+        answer = float('inf')
+
         for right in range(n):
-            total += arr[right]
-            
-            while total > target:
-                total -= arr[left]
+            current_sum += arr[right]
+
+            while current_sum > target:
+                current_sum -= arr[left]
                 left += 1
 
-            if total == target:
-                curr_len = right - left + 1
-                if left > 0 and min_len[left - 1] != INF:
-                    res = min(res, curr_len + min_len[left - 1])
-                best = min(best, curr_len)
+            if current_sum == target:
+                length = right - left + 1
 
-            min_len[right] = best
+                # Check if there is a non-overlapping
+                # previous subarray
+                if left > 0 and best[left - 1] != float('inf'):
+                    answer = min(answer, length + best[left - 1])
 
-        return res if res != INF else -1
+                min_length = min(min_length, length)
+
+            best[right] = min_length
+
+        return -1 if answer == float('inf') else answer
         
