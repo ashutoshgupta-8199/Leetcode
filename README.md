@@ -47,6 +47,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/0009-palindrome-number) |
 | [0836-rectangle-overlap](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/0836-rectangle-overlap) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Geometry
