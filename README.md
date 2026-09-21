@@ -18,6 +18,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/0010-regular-expression-matching) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -38,6 +39,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/0006-zigzag-conversion) |
+| [0010-regular-expression-matching](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/0010-regular-expression-matching) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Sliding Window
@@ -86,4 +88,8 @@
 |  |
 | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
+## Recursion
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
