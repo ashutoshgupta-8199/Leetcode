@@ -7,6 +7,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/0011-container-with-most-water) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3524-find-x-value-of-array-i](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/3524-find-x-value-of-array-i) |
 ## Binary Search
@@ -14,6 +15,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Dynamic Programming
 |  |
@@ -34,6 +36,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## String
 |  |
 | ------- |
@@ -48,6 +51,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Math
 |  |
 | ------- |
@@ -83,6 +87,7 @@
 |  |
 | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Manacher
 |  |
 | ------- |
