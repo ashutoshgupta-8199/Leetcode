@@ -1,23 +1,23 @@
 class Solution(object):
     def minOperations(self, nums, x):
-        """
-        :type nums: List[int]
-        :type x: int
-        :rtype: int
-        """
-        ts = sum(nums)
-        ms = float('inf')
-        l = len(nums)
-        start = end = 0
-        cs = 0
-        while end < l:
-            cs+=nums[end]
-            while ts - cs < x and start <= end: # If my current sum is reducing valid interval from desired value we need to release from start 
-                cs-=nums[start]
-                start+=1
-            if ts - cs == x:
-                ms=min(ms, l-(end-start+1))
-            end+=1
-            
-        return -1 if ms == float('inf') else ms
+        target = sum(nums) - x
+
+        if target < 0: return -1      # whole array can't even reach x, over it 🚪
+        if target == 0: return len(nums)  # take EVERYTHING, leave nothing 💅
+
+        max_len = -1
+        left = 0
+        curr_sum = 0
+
+        for right in range(len(nums)):
+            curr_sum += nums[right]
+
+            while curr_sum > target and left <= right:
+                curr_sum -= nums[left]   # window too fat, shrink it 🏃‍♀️
+                left += 1
+
+            if target == curr_sum:
+                max_len = max(max_len, right - left + 1)
+
+        return len(nums) - max_len if max_len != -1 else -1
         
