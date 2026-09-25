@@ -31,6 +31,7 @@
 ## Sorting
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Hash Table
 |  |
@@ -38,6 +39,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/0013-roman-to-integer) |
+| [1096-brace-expansion-ii](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## String
@@ -49,6 +51,7 @@
 | [0010-regular-expression-matching](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/0013-roman-to-integer) |
+| [1096-brace-expansion-ii](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Sliding Window
@@ -108,4 +111,16 @@
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/0010-regular-expression-matching) |
+## Backtracking
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/1096-brace-expansion-ii) |
+## Stack
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/1096-brace-expansion-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/1096-brace-expansion-ii) |
 <!---LeetCode Topics End-->
