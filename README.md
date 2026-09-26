@@ -7,6 +7,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/0015-3sum) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -33,6 +34,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/0015-3sum) |
 | [1096-brace-expansion-ii](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Hash Table
@@ -85,6 +87,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/0015-3sum) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Greedy
 |  |
