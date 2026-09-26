@@ -1,23 +1,31 @@
 class Solution(object):
+
     def minOperations(self, nums, x):
-        target = sum(nums) - x
+        total_sum = sum(nums)
+        target = total_sum - x
 
-        if target < 0: return -1      # whole array can't even reach x, over it 🚪
-        if target == 0: return len(nums)  # take EVERYTHING, leave nothing 💅
+        if target < 0:
+            return -1
 
-        max_len = -1
+        if target == 0:
+            return len(nums)
+
         left = 0
-        curr_sum = 0
+        curr = 0
+        longest = -1
 
         for right in range(len(nums)):
-            curr_sum += nums[right]
+            curr += nums[right]
 
-            while curr_sum > target and left <= right:
-                curr_sum -= nums[left]   # window too fat, shrink it 🏃‍♀️
+            while curr > target:
+                curr -= nums[left]
                 left += 1
 
-            if target == curr_sum:
-                max_len = max(max_len, right - left + 1)
+            if curr == target:
+                longest = max(longest, right - left + 1)
 
-        return len(nums) - max_len if max_len != -1 else -1
+        if longest == -1:
+            return -1
+
+        return len(nums) - longest
         
