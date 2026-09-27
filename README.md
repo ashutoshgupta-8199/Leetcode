@@ -58,6 +58,7 @@
 | [0013-roman-to-integer](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/0014-longest-common-prefix) |
 | [1096-brace-expansion-ii](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
@@ -127,6 +128,7 @@
 |  |
 | ------- |
 | [1096-brace-expansion-ii](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -135,4 +137,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/0014-longest-common-prefix) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
