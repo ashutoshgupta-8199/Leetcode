@@ -4,25 +4,29 @@ class Solution(object):
         :type s: str
         :rtype: str
         """
-        n = len(s)
-        link = [0]*n
-        stk = res = []
-
-        for i, c in enumerate(s):
-            if c == '(':
-                stk.append(i)
-            elif c == ')':
-                j = stk.pop()
-                link[i] = j
-                link[j] = i
         
-        dr, i = 1, 0
-        while i < n:
-            if s[i] >= 'a':
-                res.append(s[i])
+        result=""
+        stack=[]
+        n=len(s)
+        for i in range(n):
+            # print "stack is:", stack
+            if s[i]==")":
+                pop=""
+                j=len(stack)-1
+                while stack[j]!="(":
+                    pop+=stack[j]
+                    stack.pop()
+                    j-=1
+                stack.pop()
+                # print("inside pop is:",pop)
+                pop=pop[::-1]
+                if "(" not in stack:
+                    stack.append(pop[::-1])
+                else:
+                    stack.append(pop)
             else:
-                i = link[i]
-                dr = -dr
-            
-            i += dr
-        return ''.join(res)
+                stack.append(s[i])
+        # print("final stack is:",stack)
+        for i in stack:
+            result+=i
+        return result
