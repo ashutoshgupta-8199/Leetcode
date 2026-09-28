@@ -98,6 +98,7 @@
 | [0015-3sum](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/0018-4sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Greedy
 |  |
@@ -153,4 +154,8 @@
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Linked List
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->
