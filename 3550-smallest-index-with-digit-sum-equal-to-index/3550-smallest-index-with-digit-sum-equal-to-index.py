@@ -1,16 +1,13 @@
-class Solution(object):
+class Solution:
     def smallestIndex(self, nums):
-        n = len(nums)
-
-        for i in range(n):
-            sum = 0
-            num = nums[i]
+        for i, num in enumerate(nums):
+            total = 0
 
             while num > 0:
-                sum += num % 10
+                total += num % 10
                 num //= 10
 
-            if sum == i:
+            if total == i:
                 return i
 
         return -1
