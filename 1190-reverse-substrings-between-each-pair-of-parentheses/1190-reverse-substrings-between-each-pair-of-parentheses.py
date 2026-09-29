@@ -30,3 +30,4 @@ class Solution(object):
         for i in stack:
             result+=i
         return result
+        
