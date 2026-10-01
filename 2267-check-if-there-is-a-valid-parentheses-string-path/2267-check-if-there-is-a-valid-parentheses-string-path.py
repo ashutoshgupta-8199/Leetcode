@@ -1,21 +1,18 @@
 class Solution:
     def hasValidPath(self, grid):
-        m = len(grid)
-        n = len(grid[0])
+        rows = len(grid)
+        cols = len(grid[0])
 
-        if (m + n - 1) % 2 != 0:
+        if grid[0][0] == ')' or grid[rows - 1][cols - 1] == '(':
             return False
 
-        if grid[0][0] == ')' or grid[m - 1][n - 1] == '(':
+        if (rows + cols - 1) % 2 != 0:
             return False
 
-        dp = {}
+        memo = {}
 
-        def dfs(i, j, balance):
-            if i >= m or j >= n:
-                return False
-
-            if grid[i][j] == '(':
+        def search_path(row, col, balance):
+            if grid[row][col] == '(':
                 balance += 1
             else:
                 balance -= 1
@@ -23,19 +20,25 @@ class Solution:
             if balance < 0:
                 return False
 
-            if (i, j, balance) in dp:
-                return dp[(i, j, balance)]
-
-            if i == m - 1 and j == n - 1:
+            if row == rows - 1 and col == cols - 1:
                 return balance == 0
 
-            down = dfs(i + 1, j, balance)
-            right = dfs(i, j + 1, balance)
+            state = (row, col, balance)
 
-            dp[(i, j, balance)] = down or right
+            if state in memo:
+                return memo[state]
 
-            return dp[(i, j, balance)]
+            valid_path = False
 
-        return dfs(0, 0, 0)
+            if row + 1 < rows:
+                valid_path = search_path(row + 1, col, balance)
+
+            if not valid_path and col + 1 < cols:
+                valid_path = search_path(row, col + 1, balance)
+
+            memo[state] = valid_path
+            return valid_path
+
+        return search_path(0, 0, 0)
         
 	
