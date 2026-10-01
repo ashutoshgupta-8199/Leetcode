@@ -30,4 +30,3 @@ class Solution:
                 continue
             depth += 1
         return r
-        
