@@ -136,6 +136,7 @@
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/0010-regular-expression-matching) |
+| [0021-merge-two-sorted-lists](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 ## Backtracking
 |  |
 | ------- |
@@ -171,6 +172,7 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0021-merge-two-sorted-lists](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 ## Matrix
 |  |
 | ------- |
