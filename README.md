@@ -30,6 +30,7 @@
 | [0005-longest-palindromic-substring](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -68,6 +69,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -147,6 +149,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -164,6 +167,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
