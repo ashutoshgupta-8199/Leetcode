@@ -48,4 +48,3 @@ class Solution(object):
 
         return sorted(dfs(0, len(expression)-1))
         
-        
