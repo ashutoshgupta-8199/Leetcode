@@ -1,32 +1,23 @@
 class Solution(object):
-
     def minOperations(self, nums, x):
-        """
-        :type nums: List[int]
-        :type x: int
-        :rtype: int
-        """
+        target = sum(nums) - x
 
-        total = sum(nums)
-        target = total - x
+        if target < 0: return -1      # whole array can't even reach x, over it 🚪
+        if target == 0: return len(nums)  # take EVERYTHING, leave nothing 💅
 
-        right = 0
+        max_len = -1
         left = 0
-        longest = -1
-        curr = 0
+        curr_sum = 0
 
         for right in range(len(nums)):
-            curr += nums[right]
+            curr_sum += nums[right]
 
-            while curr > target and left <= right:
-                curr -= nums[left]
+            while curr_sum > target and left <= right:
+                curr_sum -= nums[left]   # window too fat, shrink it 🏃‍♀️
                 left += 1
 
-            if curr == target:
-                longest = max(longest, right - left + 1)
+            if target == curr_sum:
+                max_len = max(max_len, right - left + 1)
 
-        if longest == -1:
-            return -1
-
-        return len(nums) - longest
+        return len(nums) - max_len if max_len != -1 else -1
         
