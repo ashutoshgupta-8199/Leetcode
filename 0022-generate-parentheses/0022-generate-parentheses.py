@@ -1,21 +1,20 @@
 class Solution(object):
     def generateParenthesis(self, n):
-        res = set()
+        """
+        :type n: int
+        :rtype: List[str]
+        """
+        res = []
+        self.getParenthesis(0, 0, "", n, res)
+        return res
 
-        def func(left, right, s):
-            if left == right:
-                if left == n:
-                    res.add(s)
-                    return
-                else:
-                    func(left + 1, right, s + "(")
+    def getParenthesis(self, open, close, s, n, res):
+        if len(s) == 2 * n:
+            res.append(s)
 
-            if left < n:
-                func(left + 1, right, s + "(")
+        if open < n:
+            self.getParenthesis(open + 1, close, s + "(", n, res)
 
-            if right < left:
-                func(left, right + 1, s + ")")
-
-        func(1, 0, "(")
-        return list(res)
+        if close < open:
+            self.getParenthesis(open, close + 1, s + ")", n, res)
         
