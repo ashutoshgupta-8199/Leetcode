@@ -1,22 +1,21 @@
-class Solution:
+class Solution(object):
     def generateParenthesis(self, n):
-        ans = []
+        res = set()
 
-        def backtrack(s, open, close):
-            # A complete valid combination is formed
-            if len(s) == 2 * n:
-                ans.append(s)
-                return
+        def func(left, right, s):
+            if left == right:
+                if left == n:
+                    res.add(s)
+                    return
+                else:
+                    func(left + 1, right, s + "(")
 
-            # Add '(' if we still have opening brackets available
-            if open < n:
-                backtrack(s + "(", open + 1, close)
+            if left < n:
+                func(left + 1, right, s + "(")
 
-            # Add ')' only when it is safe
-            if close < open:
-                backtrack(s + ")", open, close + 1)
+            if right < left:
+                func(left, right + 1, s + ")")
 
-        backtrack("", 0, 0)
-
-        return ans
+        func(1, 0, "(")
+        return list(res)
         
