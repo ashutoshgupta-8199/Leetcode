@@ -1,33 +1,29 @@
-class Solution(object):
+class Solution:
     def reverseParentheses(self, s):
-        """
-        :type s: str
-        :rtype: str
-        """
-        
-        result=""
-        stack=[]
-        n=len(s)
+        n = len(s)
+        pair = [0] * n
+        stack = []
+
         for i in range(n):
-            # print "stack is:", stack
-            if s[i]==")":
-                pop=""
-                j=len(stack)-1
-                while stack[j]!="(":
-                    pop+=stack[j]
-                    stack.pop()
-                    j-=1
-                stack.pop()
-                # print("inside pop is:",pop)
-                pop=pop[::-1]
-                if "(" not in stack:
-                    stack.append(pop[::-1])
-                else:
-                    stack.append(pop)
+            if s[i] == '(':
+                stack.append(i)
+            elif s[i] == ')':
+                open_idx = stack.pop()
+                pair[open_idx] = i
+                pair[i] = open_idx
+
+        ans = []
+        step = 1
+        i = 0
+
+        while 0 <= i < n:
+            if s[i].islower():
+                ans.append(s[i])
             else:
-                stack.append(s[i])
-        # print("final stack is:",stack)
-        for i in stack:
-            result+=i
-        return result
+                i = pair[i]
+                step = -step
+
+            i += step
+
+        return ''.join(ans)
         
