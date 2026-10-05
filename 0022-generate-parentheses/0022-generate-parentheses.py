@@ -1,20 +1,21 @@
-class Solution(object):
+class Solution:
     def generateParenthesis(self, n):
-        """
-        :type n: int
-        :rtype: List[str]
-        """
-        res = []
-        self.getParenthesis(0, 0, "", n, res)
-        return res
+        ans = []
 
-    def getParenthesis(self, open, close, s, n, res):
-        if len(s) == 2 * n:
-            res.append(s)
+        def backtrack(s, open, close):
+            # A complete valid combination is formed
+            if len(s) == 2 * n:
+                ans.append(s)
+                return
 
-        if open < n:
-            self.getParenthesis(open + 1, close, s + "(", n, res)
+            # Add '(' if we still have opening brackets available
+            if open < n:
+                backtrack(s + "(", open + 1, close)
 
-        if close < open:
-            self.getParenthesis(open, close + 1, s + ")", n, res)
-        
+            # Add ')' only when it is safe
+            if close < open:
+                backtrack(s + ")", open, close + 1)
+
+        backtrack("", 0, 0)
+
+        return ans
