@@ -10,6 +10,7 @@
 | [0015-3sum](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -117,6 +118,7 @@
 | [0016-3sum-closest](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Greedy
 |  |
