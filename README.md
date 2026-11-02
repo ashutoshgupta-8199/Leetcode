@@ -28,6 +28,7 @@
 | [3524-find-x-value-of-array-i](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3665-twisted-mirror-path-count](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/3665-twisted-mirror-path-count) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -228,6 +229,7 @@
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/1096-brace-expansion-ii) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Trie
 |  |
 | ------- |
@@ -258,6 +260,7 @@
 |  |
 | ------- |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3665-twisted-mirror-path-count](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/3665-twisted-mirror-path-count) |
 ## Heap (Priority Queue)
 |  |
@@ -305,6 +308,7 @@
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -340,6 +344,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Graph Theory
 |  |
