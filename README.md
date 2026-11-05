@@ -138,6 +138,7 @@
 | [0009-palindrome-number](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/0029-divide-two-integers) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0836-rectangle-overlap](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/0836-rectangle-overlap) |
@@ -290,6 +291,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/0029-divide-two-integers) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
