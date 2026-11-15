@@ -18,6 +18,7 @@
 | [1267-count-servers-that-communicate](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -67,6 +68,7 @@
 | [0032-longest-valid-parentheses](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -162,6 +164,7 @@
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0836-rectangle-overlap](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/0836-rectangle-overlap) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2409-count-days-spent-together](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/2409-count-days-spent-together) |
@@ -217,6 +220,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3364-minimum-positive-sum-subarray](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
