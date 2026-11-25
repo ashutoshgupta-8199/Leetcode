@@ -51,6 +51,7 @@
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3886-sum-of-sortable-integers](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/3886-sum-of-sortable-integers) |
+| [3934-smallest-unique-subarray](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Binary Search
 |  |
@@ -63,6 +64,7 @@
 | [2089-find-target-indices-after-sorting-array](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3934-smallest-unique-subarray](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/3934-smallest-unique-subarray) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -119,6 +121,7 @@
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3934-smallest-unique-subarray](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/3934-smallest-unique-subarray) |
 ## String
 |  |
 | ------- |
@@ -448,4 +451,16 @@
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/3934-smallest-unique-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/ashutoshgupta-8199/Leetcode/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
